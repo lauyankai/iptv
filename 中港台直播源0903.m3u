@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港",TVB Pearl (珍珠台) (720p)
+https://live.astradamy.com/tvbpearl/index.m3u8
 #EXTINF:-1 group-title="中国",美亚电影
 https://cdn.iptv8k.top/dl/tt.php?id=39
 #EXTINF:-1 group-title="中国",美亚电影粤语
