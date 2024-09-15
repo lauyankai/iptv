@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,美亚电影
+#EXTINF:-1 group-title="中国",美亚电影
 https://cdn.iptv8k.top/dl/tt.php?id=39
 #EXTINF:-1 ,美亚电影粤语
 https://cdn.iptv8k.top/dl/tt.php?id=212
@@ -258,5 +258,5 @@ https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 #EXTINF:-1 group-title="马来西亚" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
+#EXTINF:-1 group-title="马来西亚" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
