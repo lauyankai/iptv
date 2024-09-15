@@ -1,12 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="香港",香港衛視
-https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-#EXTINF:-1 group-title="香港",港台電視33
-https://live.astradamy.com/hk33/index.m3u8
-#EXTINF:-1 group-title="香港",翡翠台
-https://live.astradamy.com/tvbfc/index.m3u8
-#EXTINF:-1 group-title="香港",珍珠台
-https://live.astradamy.com/tvbpearl/index.m3u8
+#EXTINF:-1 group-title="香港",香港奇妙台
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠台
+http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8
+#EXTINF:-1 group-title="香港",TVB新闻台
+http://api_p.tll888.com/v/inews.php
+#EXTINF:-1 group-title="香港",TVB财经资讯台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 group-title="香港",TVB明珠台
+http://42.98.87.205:7522/upnp/channelstream/04.m3u8
+#EXTINF:-1 group-title="香港",TVB都市劇場
+http://dlhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
+#EXTINF:-1 group-title="香港",ViUTV
+p2p://172.107.95.67:6004/5a5dc5f30004cb9e5871033f38f08b54.ts
+#EXTINF:-1 group-title="香港",凤凰香港
+http://live.fengshows.com/live/PHK_500k/index.m3u8
+#EXTINF:-1 group-title="香港",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港",星空卫视
+http://hellotv-iptv.uwp.ac.cn/live/startv.m3u8
+#EXTINF:-1 group-title="香港",亚太第一卫视
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
 #EXTINF:-1 group-title="中国",美亚电影
 https://cdn.iptv8k.top/dl/tt.php?id=39
 #EXTINF:-1 group-title="中国",美亚电影粤语
